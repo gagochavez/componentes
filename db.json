@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "front-end",
+      "color": "#6BD1FF",
+      "description": "Formacion Front-End de Alura Latam",
+      "code": ""
+    },
+    {
+      "id": "2",
+      "name": "back-end",
+      "color": "#00C86F",
+      "description": "Formacion Back-End de Alura Latam",
+      "code": ""
+    },
+    {
+      "id": "1694636522887",
+      "name": "data-science",
+      "color": "#7142f0",
+      "description": "Analista y Gestión de Datos",
+      "code": "25641"
+    },
+    {
+      "id": "655a02b7-b05d-4533-bdcc-3c9ef500d662",
+      "name": "Innovacion y Gestion",
+      "color": "#ff8a05",
+      "description": "Formacion Innovacion y gestion de Alura Latam",
+      "code": "abcdef"
+    }
+  ],
+  "videos": [
+    {
+      "id": 12,
+      "title": "Django, Beginner's Course for Django",
+      "category": "back-end",
+      "description": "Comprehensive beginner's course on the Django agile framework for Python.",
+      "url": "https://www.youtube.com/embed/T1intZyhXDU",
+      "image": "https://i3.ytimg.com/vi/T1intZyhXDU/maxresdefault.jpg",
+      "code": "56455"
+    },
+    {
+      "id": 15,
+      "title": "HTML Full Course - Build a Website Tutorial",
+      "category": "front-end",
+      "description": "HTML5 course from FreeCodeCamp with over 4 million views, ideal for beginners.",
+      "url": "https://www.youtube.com/embed/pQN-pnXPaVg",
+      "image": "https://i3.ytimg.com/vi/pQN-pnXPaVg/maxresdefault.jpg",
+      "code": "78871"
+    },
+    {
+      "id": 16,
+      "title": "HTML & Coding Introduction - Course for Beginners",
+      "category": "front-end",
+      "description": "HTML5 course from FreeCodeCamp introducing programming along with HTML.",
+      "url": "https://www.youtube.com/embed/GDGejH3SDNQ",
+      "image": "https://i3.ytimg.com/vi/GDGejH3SDNQ/maxresdefault.jpg",
+      "code": "78996"
+    },
+    {
+      "id": 17,
+      "title": "Learn HTML Now! Complete FREE Course from Scratch",
+      "category": "front-end",
+      "description": "Comprehensive HTML course in Spanish with over 1 million views.",
+      "url": "https://www.youtube.com/embed/MJkdaVFHrto",
+      "image": "https://i3.ytimg.com/vi/MJkdaVFHrto/maxresdefault.jpg",
+      "code": "36361"
+    },
+    {
+      "id": 18,
+      "title": "Tutorial HTML from Scratch-HTML5 For BEGINNERS",
+      "category": "front-end",
+      "description": "Comprehensive HTML5 course in Spanish, easily understandable and useful for beginners, done in Visual Studio Code.",
+      "url": "https://www.youtube.com/embed/vz4z0RLcAyk",
+      "image": "https://i3.ytimg.com/vi/vz4z0RLcAyk/maxresdefault.jpg",
+      "code": "1234"
+    },
+    {
+      "id": 19,
+      "title": "Learn CSS Now! Complete FREE Course from Scratch",
+      "category": "front-end",
+      "description": "CSS course in Spanish ideal for beginners.",
+      "url": "https://www.youtube.com/embed/wZniZEbPAzk",
+      "image": "https://i3.ytimg.com/vi/wZniZEbPAzk/maxresdefault.jpg",
+      "code": "9876"
+    },
+    {
+      "id": 20,
+      "title": "CSS Course from Scratch (Complete)",
+      "category": "front-end",
+      "description": "CSS course in Spanish with over 3.5 million views and more than 9 hours of content, ideal for beginners.",
+      "url": "https://www.youtube.com/embed/OWKXEJN67FE",
+      "image": "https://i3.ytimg.com/vi/OWKXEJN67FE/maxresdefault.jpg",
+      "code": "9874"
+    },
+    {
+      "id": 21,
+      "title": "CSS from Scratch - BASIC CSS for BEGINNERS",
+      "category": "front-end",
+      "description": "CSS course from scratch ideal for beginners.",
+      "url": "https://www.youtube.com/embed/N8V5JhasaSE",
+      "image": "https://i3.ytimg.com/vi/N8V5JhasaSE/maxresdefault.jpg",
+      "code": "9865"
+    },
+    {
+      "id": 22,
+      "title": "Learn HTML and CSS! with 5 Included Projects",
+      "category": "front-end",
+      "description": "Application course of HTML and CSS with included projects. Over 6 hours of content.",
+      "url": "https://www.youtube.com/embed/AXPASVeX74o",
+      "image": "https://i3.ytimg.com/vi/AXPASVeX74o/maxresdefault.jpg",
+      "code": "6532"
+    },
+    {
+      "id": 23,
+      "title": "Learn HTML and CSS - Course from Scratch",
+      "category": "front-end",
+      "description": "HTML and CSS course from FreeCodeCamp with over 1 million views, in Spanish.",
+      "url": "https://www.youtube.com/embed/XqFR2lqBYPs",
+      "image": "https://i3.ytimg.com/vi/XqFR2lqBYPs/maxresdefault.jpg",
+      "code": "6554"
+    },
+    {
+      "id": 24,
+      "title": "CSS Full Course for Beginners | Complete All-in-One Tutorial",
+      "category": "front-end",
+      "description": "Very comprehensive CSS course with over 11 hours of content.",
+      "url": "https://www.youtube.com/embed/n4R2E7O-Ngo",
+      "image": "https://i3.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpg",
+      "code": "53323"
+    },
+    {
+      "id": "d2187a64-1cb6-4fca-9e5a-469d3c9ab1f9",
+      "title": "React Router",
+      "category": "front-end",
+      "description": "Curso de React Router",
+      "url": "https://youtu.be/9w33u7hBWyk?si=vWFU1Y5jfF5mv6m6",
+      "image": "https://i3.ytimg.com/vi/9w33u7hBWyk/maxresdefault.jpg",
+      "code": "Jonmircha"
+    },
+    {
+      "id": "8c17fc1a-19ca-4e5b-9575-aff8d761aa5e",
+      "title": "Las 7 soft skills mas deseadas",
+      "category": "Innovacion y Gestion",
+      "description": "Formacion de Innovacion y gestion de Alura Latam",
+      "url": "https://www.youtube.com/watch?v=YhR7Zp8NUzE&pp=ygUfbGFzIDcgc29mdCBza2lsbHMgbWFzIGRlc2VhZGFkcw%3D%3D",
+      "image": "https://i3.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+      "code": "32154"
+    },
+    {
+      "id": "8ddf0521-0a20-4808-857d-4a89ce486fb4",
+      "title": "Metodologias Agiles",
+      "category": "Innovacion y Gestion",
+      "description": "Aprendiendo sobre las metodologias agiles",
+      "url": "https://www.youtube.com/watch?v=6N3OkLCfK-0&pp=ygUfbWV0b2RvbG9naWFzIGFnaWxlcyBhbHVyYSBsYXRhbQ%3D%3D",
+      "image": "https://i3.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+      "code": "45689"
+    },
+    {
+      "id": "5f1f110b-f11e-4a7c-abec-f4fb1d4db601",
+      "title": "Desarrolla tu Marca Personal",
+      "category": "Innovacion y Gestion",
+      "description": "Marca Personal",
+      "url": "https://www.youtube.com/watch?v=LAK-RduBJUs&pp=ygUhYWx1cmEgbGF0YW0gaW5ub3ZhY2lvbiB5IGdlc3Rpb24g",
+      "image": "https://i3.ytimg.com/vi/LAK-RduBJUs/maxresdefault.jpg",
+      "code": "45588"
+    },
+    {
+      "id": "e184c35d-f9bc-4ca8-9dd8-21110e9818f1",
+      "title": "Spring FrameWork",
+      "category": "back-end",
+      "description": "Conociendo FrameWordks",
+      "url": "https://www.youtube.com/watch?v=t-iqt1b2qqk&pp=ygUQc3ByaW5nIGZyYW1ld29yaw%3D%3D",
+      "image": "https://i3.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "code": "32154"
+    },
+    {
+      "id": "764739bc-baf0-4934-9b99-afcafb8f7e91",
+      "title": "Que es SQL y NOSQL",
+      "category": "back-end",
+      "description": "Aprendiendo Sobre Base de Datos",
+      "url": "https://www.youtube.com/watch?v=cLLKVd5CNLc&pp=ygUTcXVlIGVzIHNxbCB5IG5vc3FsIA%3D%3D",
+      "image": "https://i3.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+      "code": "65487"
+    },
+    {
+      "id": "1385e3e2-9557-4285-9af4-c826168eef02",
+      "title": "Simplificando tu codigo en Java",
+      "category": "back-end",
+      "description": "Aprendiendo sobre Java y los Enums",
+      "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ&pp=ygUqc2ltcGxpZmljYSB0dSBjb2RpZ28gZW4gamF2YSBjb24gbG9zIGVudW1z",
+      "image": "https://i3.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+      "code": ""
+    },
+    {
+      "id": "c0dbdc5b-8e5d-4e34-b7d1-3aa5d578ca97",
+      "title": "Explorando el Backend en el Desarrollo Web",
+      "category": "back-end",
+      "description": "Todo sobre el backend en el desarrollo web",
+      "url": "https://www.youtube.com/watch?v=Z024LSCMqFk&pp=ygUTYWx1cmEgbGF0YW0gYmFja2VuZA%3D%3D",
+      "image": "https://i3.ytimg.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+      "code": "45687"
+    },
+    {
+      "id": "2844f2cf-29fa-4579-be7b-8d05c38e75bc",
+      "title": "Challenge React",
+      "category": "front-end",
+      "description": "Este challenge es una forma de aprendizaje. Un mecanismo donde podras comprometerte en la resolucion de un problema para poder aplicar todos los conocimientos adquiridos en la formacion React.",
+      "url": "https://www.youtube.com/watch?v=ov7vA5HFe6w&pp=ygUlcXVlIHNpZ25pZmljYSBwZW5zYXIgY29tbyBwcm9ncmFtYWRvcg%3D%3Dhttps://i3.ytimg.com/vi/ov7vA5HFe6w/maxresdefault.jpg",
+      "image": "https://i3.ytimg.com/vi/ov7vA5HFe6w/maxresdefault.jpg",
+      "code": "12323"
+    }
+  ]
+}

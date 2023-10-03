@@ -1,0 +1,15 @@
+@media (max-width: 440px) {
+  .general {
+    height: auto;
+  }
+  .typography-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .footer-container {
+    margin-top: 24px;
+  }
+}
